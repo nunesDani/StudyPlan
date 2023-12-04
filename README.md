@@ -6,4 +6,5 @@ Caso tente rodar o projeto, não se esqueça de acessar o arquivo MySqlConnectio
 E não se esqueça de acessar o arquivo TarefasDataBase.sql para criar a database e tabelas.
 
 Versão utilizada: MySQL Workbench 8.0
+
 Demonstração: https://www.youtube.com/watch?v=X5RwZhUjfWo
